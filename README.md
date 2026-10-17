@@ -24,14 +24,8 @@ Senior frontend developer and tech lead based in Bangalore, with 10+ years build
 
 ## Contributions
 
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=akshaypalekar15&theme=github-compact&hide_border=true&area=true)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaypalekar15&show_icons=true&hide_border=true&count_private=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaypalekar15&layout=compact&hide_border=true)
-
-## Commit activity
-
-![Commit activity](https://github-readme-activity-graph.vercel.app/graph?username=akshaypalekar15&theme=github-compact&hide_border=true&custom_title=Commit%20activity&area=false&line=0969da&point=0969da)
 
 ## Reach me
 [Email](mailto:akshaypalekar15@gmail.com)
