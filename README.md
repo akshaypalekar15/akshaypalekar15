@@ -22,5 +22,7 @@ Senior frontend developer and tech lead based in Bangalore, with 10+ years build
 | [Random-Text-Generator](https://github.com/akshaypalekar15/Random-Text-Generator) | A React app for generating random text. | JavaScript, React |
 | [RepeaterFormComponent](https://github.com/akshaypalekar15/RepeaterFormComponent) | A reusable repeater form component. | TypeScript |
 
+### Current Side Project: [ResFlows](https://www.resflows.online/)  | Web application for analyzing candidate resumes against job descriptions
+
 ## Reach me
 [Email](mailto:akshaypalekar15@gmail.com)
